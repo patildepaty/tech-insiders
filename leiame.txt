@@ -1,0 +1,2 @@
+Para iniciar a aplicação, rodar o comando abaixo:
+./gradlew bootRun
